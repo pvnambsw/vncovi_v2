@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "515075052621",
+    "project_id": "vncovi-1490c",
+    "storage_bucket": "vncovi-1490c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515075052621:android:cb3bf61035423715ec3804",
+        "android_client_info": {
+          "package_name": "com.example.vncovi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515075052621-9ug3v6rrrv1hiflv8h02hpcqn4v8ub43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vncovi",
+            "certificate_hash": "e5db3f646564dd14e64c68258b7698f1f2763f8e"
+          }
+        },
+        {
+          "client_id": "515075052621-i7i3ab8er3dfoeutntf4s1s330qs04ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vncovi",
+            "certificate_hash": "be244aa6fc45c1c5fc0bb045f5c8d374c807b9e8"
+          }
+        },
+        {
+          "client_id": "515075052621-l4h78dkcj3do0pm2gbi0dlm9jejnqknj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vncovi",
+            "certificate_hash": "d20e7a6e265b1d00c229b519ad619df87c1fd4f4"
+          }
+        },
+        {
+          "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6e6qOYovZiphFExGdbB1bNnADqaorrrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515075052621-5rjelcpdfso7i3uvj1k2cd0teclg4ghq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vncoviV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515075052621:android:8be9cef4c2b946f3ec3804",
+        "android_client_info": {
+          "package_name": "com.example.vncovi_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6e6qOYovZiphFExGdbB1bNnADqaorrrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515075052621-5rjelcpdfso7i3uvj1k2cd0teclg4ghq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vncoviV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515075052621:android:fc21d2656dcd50dfec3804",
+        "android_client_info": {
+          "package_name": "com.example.vncovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6e6qOYovZiphFExGdbB1bNnADqaorrrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515075052621-5lgj4cht0i72hgt52iemvf0eg5v8bu13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515075052621-5rjelcpdfso7i3uvj1k2cd0teclg4ghq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vncoviV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
